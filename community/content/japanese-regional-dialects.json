@@ -47,5 +47,12 @@
   "english": "because",
   "region": "Hiroshima",
   "note": "Common causal ending. (Set 6)"
-  }
+  },
+  {
+  "dialect": "でら",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Nagoya",
+  "note": "Characteristic Nagoya intensifier. (Set 4)"
+}
 ]
